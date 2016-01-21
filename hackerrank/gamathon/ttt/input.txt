@@ -1,0 +1,17 @@
+O
+XOX
+___ 
+___
+
+int convert9To25[9] = {
+    6,7,8,
+    11,12,13,
+    16,17,18
+};
+
+clear && cd /cygdrive/c/Users/jdurairaj/Documents/puzzles/ttt/ && rm -rf ttt && gcc ttt.c -o ttt && ./ttt.exe < input.txt > output.txt
+
+X
+X_O
+X__ 
+__O

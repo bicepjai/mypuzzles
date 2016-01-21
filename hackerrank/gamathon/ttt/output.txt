@@ -1,0 +1,8 @@
+1 1
+chooseMoveAB timesCalled: 366 bestMove:12
+1 1
+chooseMove timesCalled: 1349 bestMove:12
+1 1
+chooseMoveEvaluate timesCalled: 1349 bestMove:12
+1 0
+chooseMoveAB timesCalled: 578 bestMove:11

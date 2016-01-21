@@ -2,6 +2,7 @@
 
 fb/thrift*/*
 .DS_Store
+*.dSYM*
 
 *.py[cod]
 
