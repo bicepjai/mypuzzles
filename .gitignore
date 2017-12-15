@@ -98,8 +98,4 @@ hs_err_pid*
 # Executables
 *.exe
 *.out
-<<<<<<< HEAD
 *.app
-=======
-*.app
->>>>>>> c16a0dc2bd6862797768abe0093b2b7562dc7660
